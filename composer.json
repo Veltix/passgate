@@ -1,0 +1,21 @@
+{
+    "name": "kristenlooke/passgate",
+    "description": "Secure your password using password Gate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristen Lõoke",
+            "email": "kristen@neti.ee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php": "^7.2"
+	},
+    "autoload": {
+    	"psr-4": {
+    		"Hmer\\": "src"
+    	}
+    }
+}

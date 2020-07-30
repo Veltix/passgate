@@ -9,10 +9,8 @@
             "email": "kristen@neti.ee"
         }
     ],
-    {
     "minimum-stability": "dev",
-    "prefer-stable": true
-    },
+    "prefer-stable": true,
     "require": {
 	"php": "^7.2"
 	},

@@ -1,5 +1,5 @@
 {
-    "name": "kristenlooke/passgate",
+    "name": "veltix/passgate",
     "description": "Secure your password using password Gate",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
             "email": "kristen@neti.ee"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
 	"php": "^7.2"
 	},

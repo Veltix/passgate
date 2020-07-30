@@ -7,7 +7,7 @@
  * @copyright    Copyright (c) Kristen Lõoke
  */
 
-namespace Hmer\PassGate;
+namespace Veltix\PassGate;
 
 use Exception;
 
